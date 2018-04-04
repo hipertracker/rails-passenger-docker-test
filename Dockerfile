@@ -1,5 +1,6 @@
 FROM phusion/passenger-full:0.9.29
 ENV HOME /root
+ENV RAILS_ENV development
 CMD ["/sbin/my_init"]
 
 RUN rm -f /etc/service/nginx/down
