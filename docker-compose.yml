@@ -1,0 +1,9 @@
+version: "3.5"
+
+services:
+  web:
+    image: hipertracker/tescior
+    container_name: tescior_web
+    ports:
+      - "80:80"
+
