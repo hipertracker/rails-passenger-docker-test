@@ -1,3 +1,12 @@
+### Reproduce the bug
+```
+git clone git@github.com:hipertracker/rails-passenger-docker-test.git tescior
+cd tescior
+docker run -t hipertracker/tescior .
+docker-compose up
+open http://localhost
+```
+
 ```
 ➜  tescior git:(master) docker-compose up
 Recreating teacior_web ... done
