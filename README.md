@@ -1,4 +1,4 @@
-### Reproduce the bug
+## Reproducing the bug
 ```
 git clone git@github.com:hipertracker/rails-passenger-docker-test.git tescior
 cd tescior
