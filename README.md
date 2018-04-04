@@ -1,4 +1,8 @@
-## Reproducing the bug
+## UPDATE: problem has been solved 
+
+https://github.com/hipertracker/rails-passenger-docker-test/commit/959f9b05a6578adca057bbe961fa7a8876ccf7a3
+
+## Reproducing previous bug
 ```
 git clone git@github.com:hipertracker/rails-passenger-docker-test.git tescior
 cd tescior
